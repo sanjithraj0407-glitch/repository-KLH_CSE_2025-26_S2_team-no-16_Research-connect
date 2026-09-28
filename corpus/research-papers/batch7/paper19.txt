@@ -1,0 +1,22 @@
+Research Questions and Answers - Pattern Searching
+
+Question: What is pattern searching?
+Answer: Pattern searching is the process of finding a specific sequence of characters or words inside a larger text.
+
+Question: What is the KMP algorithm?
+Answer: KMP is a string pattern matching algorithm that uses information about previously matched characters to search efficiently.
+
+Question: What is a text corpus?
+Answer: A text corpus is a collection of text documents that can be analyzed or searched.
+
+Question: Why is pattern searching useful?
+Answer: Pattern searching helps users find relevant words, phrases, and information inside large collections of documents.
+
+Question: What is an occurrence?
+Answer: An occurrence is one location where the searched pattern appears inside a text.
+
+Question: What are pattern positions?
+Answer: Pattern positions are the character indexes where a searched pattern starts in a document.
+
+Question: How does KMP improve pattern searching?
+Answer: KMP avoids unnecessary comparisons by using a prefix table to determine where the next comparison should begin. 

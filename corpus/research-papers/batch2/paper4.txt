@@ -1,0 +1,3 @@
+Natural language processing allows computers to understand and process human language.
+Machine learning and deep learning are important techniques in natural language processing.
+Text search algorithms help researchers find relevant information in large document collections.

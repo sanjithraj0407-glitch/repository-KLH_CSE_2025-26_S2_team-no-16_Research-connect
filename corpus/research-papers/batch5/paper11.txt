@@ -1,0 +1,19 @@
+Research Questions and Answers - Machine Learning
+
+Question: What is machine learning?
+Answer: Machine learning is a branch of artificial intelligence that enables computers to learn patterns from data and make predictions or decisions.
+
+Question: What are the main types of machine learning?
+Answer: The main types are supervised learning, unsupervised learning, and reinforcement learning.
+
+Question: What is supervised learning?
+Answer: Supervised learning trains a model using labeled data where the expected output is already known.
+
+Question: What is unsupervised learning?
+Answer: Unsupervised learning finds patterns and relationships in data without predefined labels.
+
+Question: What is a training dataset?
+Answer: A training dataset is a collection of examples used to teach a machine learning model.
+
+Question: Why is machine learning useful?
+Answer: Machine learning can automate predictions, classification, recommendation, and decision-making tasks.

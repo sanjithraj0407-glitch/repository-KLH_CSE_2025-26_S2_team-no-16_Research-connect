@@ -1,0 +1,19 @@
+Research Questions and Answers - Internet of Things
+
+Question: What is the Internet of Things?
+Answer: The Internet of Things is a network of physical devices that collect and exchange data using sensors and communication technologies.
+
+Question: What are IoT devices?
+Answer: IoT devices are physical objects such as sensors, smart appliances, wearable devices, and connected machines.
+
+Question: What is the role of sensors in IoT?
+Answer: Sensors collect information such as temperature, motion, pressure, or light from the physical environment.
+
+Question: Where is IoT used?
+Answer: IoT is used in smart homes, healthcare, agriculture, transportation, manufacturing, and environmental monitoring.
+
+Question: What is a smart device?
+Answer: A smart device is an electronic device that can collect information, communicate with other systems, and perform automated actions.
+
+Question: Why is IoT important?
+Answer: IoT enables continuous monitoring, automation, data collection, and intelligent decision-making.

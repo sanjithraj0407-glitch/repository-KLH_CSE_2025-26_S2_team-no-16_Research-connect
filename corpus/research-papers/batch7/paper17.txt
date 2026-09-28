@@ -1,0 +1,19 @@
+Research Questions and Answers - Computer Networks
+
+Question: What is a computer network?
+Answer: A computer network is a group of connected computers and devices that communicate and share resources.
+
+Question: What is an IP address?
+Answer: An IP address is a numerical address used to identify a device on a network.
+
+Question: What is a router?
+Answer: A router is a networking device that forwards data packets between different networks.
+
+Question: What is a protocol?
+Answer: A protocol is a set of rules that defines how devices communicate and exchange data.
+
+Question: What is TCP?
+Answer: Transmission Control Protocol provides reliable and ordered delivery of data between devices.
+
+Question: Why are computer networks important?
+Answer: Computer networks allow users and systems to communicate, share information, and access common resources.

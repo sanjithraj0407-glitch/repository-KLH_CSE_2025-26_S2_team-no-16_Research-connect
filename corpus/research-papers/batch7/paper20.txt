@@ -1,0 +1,25 @@
+Research Questions and Answers - Information Retrieval
+
+Question: What is information retrieval?
+Answer: Information retrieval is the process of finding relevant information from a collection of documents.
+
+Question: What is a search query?
+Answer: A search query is a word or phrase entered by a user to find relevant information.
+
+Question: What is a research corpus?
+Answer: A research corpus is a collection of research documents used for searching and analysis.
+
+Question: How can pattern searching help researchers?
+Answer: Pattern searching can quickly locate specific words or phrases inside research documents.
+
+Question: What makes a search system useful?
+Answer: A useful search system should provide relevant results quickly and clearly.
+
+Question: Why are search results important?
+Answer: Search results help users identify documents containing the information they are looking for.
+
+Question: What information can a search system display?
+Answer: A search system can display matching documents, occurrence counts, and the positions where patterns occur.
+
+Question: How does this project search research papers?
+Answer: This project loads research-paper text files into a corpus and uses the KMP algorithm to search for user-entered patterns.

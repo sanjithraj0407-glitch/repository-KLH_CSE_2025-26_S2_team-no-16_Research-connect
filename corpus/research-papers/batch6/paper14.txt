@@ -1,0 +1,19 @@
+Research Questions and Answers - Cloud Computing
+
+Question: What is cloud computing?
+Answer: Cloud computing provides computing resources such as storage, servers, databases, and applications over the internet.
+
+Question: What are the main cloud service models?
+Answer: The main service models are Infrastructure as a Service, Platform as a Service, and Software as a Service.
+
+Question: What is virtualization?
+Answer: Virtualization allows multiple virtual computing environments to operate on the same physical hardware.
+
+Question: What is cloud storage?
+Answer: Cloud storage allows users to store and access data using remote servers through the internet.
+
+Question: What are the benefits of cloud computing?
+Answer: Cloud computing provides scalability, flexibility, remote access, and efficient resource utilization.
+
+Question: What is cloud security?
+Answer: Cloud security protects cloud-based systems, applications, and data from unauthorized access and cyber threats.

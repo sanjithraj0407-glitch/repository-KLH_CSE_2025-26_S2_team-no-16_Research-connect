@@ -1,0 +1,19 @@
+Research Questions and Answers - Artificial Intelligence
+
+Question: What is artificial intelligence?
+Answer: Artificial intelligence is a field of computer science that develops systems capable of performing tasks that normally require human intelligence.
+
+Question: What is the goal of artificial intelligence?
+Answer: The goal is to develop systems that can reason, learn, understand information, solve problems, and make decisions.
+
+Question: What is deep learning?
+Answer: Deep learning is a machine learning approach that uses multiple layers of neural networks to learn complex patterns.
+
+Question: What are neural networks?
+Answer: Neural networks are computational models inspired by the structure of biological neurons.
+
+Question: Where is artificial intelligence used?
+Answer: Artificial intelligence is used in healthcare, education, finance, transportation, robotics, and cybersecurity.
+
+Question: How does AI learn from data?
+Answer: AI systems can use algorithms and training data to identify patterns and improve their predictions.

@@ -1,0 +1,6 @@
+Cloud computing provides on-demand access to computing resources over the internet.
+Cloud computing services include storage, databases, networking, and virtual machines.
+Virtualization allows multiple virtual systems to operate on a single physical computer.
+Cloud security protects applications and data stored in cloud environments.
+Researchers study cloud computing to improve scalability, performance, reliability, and security.
+Public cloud, private cloud, and hybrid cloud are common cloud deployment models.

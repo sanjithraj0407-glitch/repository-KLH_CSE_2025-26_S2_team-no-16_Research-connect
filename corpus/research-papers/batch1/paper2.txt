@@ -1,0 +1,3 @@
+Deep learning uses neural networks for image classification and natural language processing.
+Convolutional neural networks are commonly used for image recognition.
+Deep learning has applications in medical image analysis.

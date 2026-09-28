@@ -1,0 +1,19 @@
+Research Questions and Answers - Data Science
+
+Question: What is data science?
+Answer: Data science combines statistics, programming, mathematics, and machine learning to extract useful information from data.
+
+Question: What is data analysis?
+Answer: Data analysis is the process of examining and interpreting data to discover useful patterns and information.
+
+Question: What is data visualization?
+Answer: Data visualization represents information using charts, graphs, and other visual formats.
+
+Question: What is a dataset?
+Answer: A dataset is a structured collection of related data used for analysis or machine learning.
+
+Question: Why is data cleaning important?
+Answer: Data cleaning removes errors, duplicates, and inconsistent values so that analysis can produce more reliable results.
+
+Question: Where is data science used?
+Answer: Data science is used in healthcare, finance, education, business, research, and many other fields.

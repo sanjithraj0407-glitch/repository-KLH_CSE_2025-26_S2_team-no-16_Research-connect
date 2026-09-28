@@ -1,0 +1,29 @@
+RESEARCH PAPER PATTERN SEARCH RESULTS
+======================================
+
+Search Pattern: "machine learning"
+
+Document   : batch1\paper1.txt
+Occurrences: 1
+Positions  : [227]
+
+Document   : batch4\paper7.txt
+Occurrences: 1
+Positions  : [51]
+
+Document   : batch4\paper8.txt
+Occurrences: 1
+Positions  : [538]
+
+Document   : batch5\paper11.txt
+Occurrences: 4
+Positions  : [71, 280, 803, 847]
+
+Document   : batch5\paper12.txt
+Occurrences: 1
+Positions  : [505]
+
+Document   : batch7\paper18.txt
+Occurrences: 2
+Positions  : [154, 621]
+

@@ -1,0 +1,5 @@
+Blockchain technology is a distributed ledger technology used to store information securely.
+Blockchain networks use cryptography to protect transactions and maintain data integrity.
+Smart contracts allow agreements to be executed automatically on blockchain networks.
+Blockchain technology is being studied in finance, healthcare, supply chain management, and cybersecurity.
+Security and transparency are important advantages of blockchain systems.

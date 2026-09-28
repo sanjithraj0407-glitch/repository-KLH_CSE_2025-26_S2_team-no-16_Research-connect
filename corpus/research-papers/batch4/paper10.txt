@@ -1,0 +1,7 @@
+Research question and answer systems help users retrieve useful information from large collections of documents.
+A research question defines the main problem that a study attempts to investigate.
+An answer provides information that addresses the research question using evidence from relevant sources.
+Pattern searching can help identify questions, answers, keywords, and important terms in research documents.
+Question answering systems use natural language processing to understand user queries.
+Information retrieval techniques help users find relevant documents from a research corpus.
+KMP pattern searching can locate exact patterns inside text documents efficiently.

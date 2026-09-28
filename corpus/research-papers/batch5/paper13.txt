@@ -1,0 +1,19 @@
+Research Questions and Answers - Cybersecurity
+
+Question: What is cybersecurity?
+Answer: Cybersecurity is the practice of protecting computers, networks, applications, and data from unauthorized access and attacks.
+
+Question: What is encryption?
+Answer: Encryption converts readable information into a protected form so that unauthorized users cannot easily understand it.
+
+Question: What is malware?
+Answer: Malware is malicious software designed to damage systems, steal information, or perform unauthorized activities.
+
+Question: What is phishing?
+Answer: Phishing is a technique that attempts to trick users into revealing sensitive information through fraudulent messages or websites.
+
+Question: What is authentication?
+Answer: Authentication verifies the identity of a user before allowing access to a system.
+
+Question: Why is cybersecurity important?
+Answer: Cybersecurity helps protect confidential information, computer systems, networks, and digital services.

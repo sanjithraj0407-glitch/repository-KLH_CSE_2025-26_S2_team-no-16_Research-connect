@@ -1,0 +1,5 @@
+Data science combines statistics, programming, and machine learning to analyze data.
+Data analysis helps researchers discover useful patterns in large datasets.
+Data visualization presents complex information using charts and graphs.
+Machine learning can be used in data science to build predictive models.
+Data science is widely applied in healthcare, finance, education, and business.

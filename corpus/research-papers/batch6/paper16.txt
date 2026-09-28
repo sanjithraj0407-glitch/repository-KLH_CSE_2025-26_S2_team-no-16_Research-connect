@@ -1,0 +1,19 @@
+Research Questions and Answers - Database Systems
+
+Question: What is a database?
+Answer: A database is an organized collection of information that can be stored, accessed, and managed electronically.
+
+Question: What is a DBMS?
+Answer: A database management system is software used to create, manage, update, and retrieve information from databases.
+
+Question: What is SQL?
+Answer: SQL is a language used to create, retrieve, modify, and manage data in relational databases.
+
+Question: What is a primary key?
+Answer: A primary key is a field or combination of fields that uniquely identifies each record in a table.
+
+Question: What is a foreign key?
+Answer: A foreign key is a field that creates a relationship between records in two database tables.
+
+Question: Why are databases important?
+Answer: Databases provide an organized way to store, manage, retrieve, and protect large amounts of information.
