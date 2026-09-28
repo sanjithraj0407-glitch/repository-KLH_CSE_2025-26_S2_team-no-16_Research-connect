@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Research Paper Pattern Search System
 
 ## Project Description
@@ -79,3 +80,6 @@ Open the terminal in the project folder and run:
 
 ```bash
 javac -d out src/algorithms/*.java
+=======
+REASEACH CONTENT
+>>>>>>> 267ebd1cf87c7b9ae1e14c3491a2b05e4a2e8394
