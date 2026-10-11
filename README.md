@@ -271,3 +271,13 @@ It combines a searchable research-paper corpus with string-matching algorithms a
 **Language:** Java
 
 **Repository:** [Research Connect — GitHub](https://github.com/sanjithraj0407-glitch/repository-KLH_CSE_2025-26_S2_team-no-16_Research-connect)
+
+## Contributors
+
+This project was developed collaboratively by:
+
+1. **T. Sai Akshaya**
+2. **R. Juhit Naidu**
+3. **M. Sanjith Raj**
+
+All contributors participated in the development and documentation of the Research Paper Pattern Search System.
